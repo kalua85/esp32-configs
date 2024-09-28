@@ -94,7 +94,7 @@ esp32_improv:
   authorizer: none
 
 dashboard_import:
-  package_import_url: github://athom-tech/esp32-configs/athom-smart-plug.yaml
+  package_import_url: github://kalua85/esp32-configs/athom-smart-plug.yaml
 
 uart:
   rx_pin: GPIO20
